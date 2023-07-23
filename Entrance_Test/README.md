@@ -4,8 +4,6 @@
 
 [Click here to view Analyst_Report.html](https://ryanstark223232.github.io/work-porfolio-hotmob/Entrance_Test/Analyst_Report.html)
 
-<a href="https://raw.githubusercontent.com/RyanStark223232/work-porfolio-hotmob/main/Entrance_Test/Analyst_Report.html" download>Download HTML file</a>
-
 ## Background
 
 This is the entrance test that I was required to complete prior to assuming my position as a Data Scientist at Hotmob. I was able to outperform other Data Scientists with over five years of experience.
