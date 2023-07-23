@@ -2,7 +2,7 @@
 
 ## How-to-Open
 
-[Click here to view Analyst_Report.html](./Analyst_Report.html)
+<a href="https://raw.githubusercontent.com/RyanStark223232/work-porfolio-hotmob/main/Entrance_Test/Analyst_Report.html" download>Download HTML file</a>
 
 ## Background
 
