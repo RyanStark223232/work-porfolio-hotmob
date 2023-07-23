@@ -17,6 +17,8 @@ The enclosed notebook serves as evidence of my capabilities in the following are
 
 ## Test Content
 
+```
+
 ### Objectives
 
 1. Analyse the provided ad campaign for a food comapny and provide 1-3 data-driven actionable insights on improving camapign performance. 
@@ -40,6 +42,8 @@ You may also comment on data quality and make suggestions on ways for data enric
 5. listprice is the winning bidding price we paid (cost) for displaying the ad in a specific ad slot.
 6. There could be missing user profiles. In addition, the profiles are created based on a longer time window that could fall outside of the given footprint data. They may or may not be useful for the analysis.
 7. url provided are for your reference of users' digital footprint. Feel free to supplement with extrenal data.
+
+```
 
 ## Results
 
